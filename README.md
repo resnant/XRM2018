@@ -1,6 +1,6 @@
 # XRM2018
 This repository is for additional materials for XRM2018.  
-Auther : Yuta Suzuki (8217624(at)ed.tus.ac(dot)jp)
+Author : Yuta Suzuki (8217624(at)ed.tus.ac(dot)jp)
 
 PDF files of presented posters are available at following links.  
  - [Poster PDF : Machine Learning-based Crystal Structure Prediction for X-Ray Microdiffraction](/XRM_XRD.pdf)
